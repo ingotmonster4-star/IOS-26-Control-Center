@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luma Centre</string>
+    <string name="accessibility_service_description">Intercepts top-right status bar downward swipes to open Luma Centre Liquid Glass Control Center without accidentally pulling the stock Android shade, and executes user-triggered system actions such as Lock Screen and Screenshot.</string>
+    <string name="notification_listener_label">Luma Centre Notifications &amp; Media</string>
+    <string name="notification_channel_watchdog_name">Luma Centre Trigger &amp; Health</string>
+    <string name="notification_channel_watchdog_desc">Keeps top-right swipe trigger responsive and alerts if a required system permission is disabled.</string>
+    <string name="notification_channel_alert_name">Permission Health Alerts</string>
+    <string name="notification_channel_alert_desc">Alerts immediately when Overlay, Accessibility, or System Settings permissions are turned off.</string>
+</resources>

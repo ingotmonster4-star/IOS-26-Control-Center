@@ -1,0 +1,6 @@
+{
+  "name": "Luma Centre",
+  "description": "Authentic iOS 27 Liquid Glass Control Center for Android with top-right status bar swipe interception, continuous translucency controls, modular customizable tiles, and third-party app toggle integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
